@@ -218,7 +218,7 @@ Server emits:
 - Summary orchestration: `backend/src/services/summary/ai.summarize.ts`
 - Env contract: `backend/src/config/env.ts`
 
-## Notes / Current Constraints
+## Notes
 
 - Frontend and backend enforce a 50 MB upload size limit.
 - Redis is required for live session flow and session summary endpoints.
